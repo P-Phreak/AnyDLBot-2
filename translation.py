@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hello! 🙋\n\nThis is a simple Telegram All-In-One Bot. Click /help button to Know More What Can I Do? \n\n@TheTeleRoid"""
-    RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/TeleRoid14)</b>"
+    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. Click /help button to Know More What Can I Do? \n\n@groupdcbots"""
+    RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/groupdc)</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
     UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......\n\n@TheTeleRoid</b>"
     FORMAT_SELECTION = "<b>Select The Desired Format:</b> "
@@ -19,9 +19,9 @@ URL | filename | username | password</b>"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ <b>Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media Cleared Succesfully.</b>"
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
-    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉**@TheTeleRoid**</b>"
+    CUSTOM_CAPTION_UL_FILE = " <b>Bot Created By \n   👉**@selfiebd**</b>"
     NO_CUSTOM_THUMB_NAIL_FOUND = "<b>No Custom ThumbNail Found .</b>"
-    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/TeleRoid14"
+    NO_VOID_FORMAT_FOUND = "Can You Check The Url? <b>I Am Unable To Detect Video Format From UrL.</b> If You Think This Could Be A Bug Please Report On https://t.me/groupdcbots"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
@@ -42,17 +42,17 @@ Expires on: 10/12/2021
 
 Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_GET_LINK = "<b>Reply to a Telegram media to get High Speed Direct Download Link.</b>"
-    REPLY_TO_DOC_FOR_C2V = "<b>Reply to a Telegram Media To Convert.\n@TheTeleRoid</b>"
-    REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@TheTeleRoid</b>"
+    REPLY_TO_DOC_FOR_C2V = "<b>Reply to a Telegram Media To Convert.\n@groupdcbots</b>"
+    REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@groupdcbots</b>"
     SOURCE = """<b>Hello!,</b>
 
 <b>○ My Name : <i>TeleRoid AnyDLBot</i></b>
-<b>○ Creator : <a href='https://telegram.dog/Kirodewal'>This Person</a></b>
+<b>○ Creator : <a href='https://telegram.dog/selfiebd'>This Person</a></b>
 <b>○ Credits : Everyone In This Journey</b>
 <b>○ Language : Python 3.9</b>
 <b>○ Library : Pyrogram Asyncio</b>
 <b>○ Cloned From : AnyDLBot [Spechide]</b>
-<b>○ Source Code :  <a href="https://github.com/PredatorHackerzZ/AnyDLBot-2">𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a></b>
+<b>○ Source Code :  <a href="https://github.com/selfie-bd/AnyDLBot-2">Click Here</a></b>
 <b>○ Server : <a href='https.heroku.com'>Heroku</a></b>
 <b>○ Build Status : Beta v1</b>"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.Or Ask In Support Group.</b>"
