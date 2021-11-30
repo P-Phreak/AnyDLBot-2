@@ -1,12 +1,12 @@
 class Translation(object):
-    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. Click /help button to Know More What Can I Do? \n\n@groupdcbots"""
+    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. \n\nBot Can Do 👇 \n\n👉 Url Upload Click \n\n👉 Rename a file\video \n\n👉 Get Stream & Download Link (10days) \n\n Click /help button to Know More What Can I Do?"""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/groupdc)</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
-    UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......\n\n@TheTeleRoid</b>"
+    UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......</b>"
     FORMAT_SELECTION = "<b>Select The Desired Format:</b> "
     SET_CUSTOM_USERNAME_PASSWORD = """<b>If You Want To Download Premium Videos, Provide In The Following Format:
 URL | filename | username | password</b>"""
-    NOYES_URL = "<b>This Is Dam Slow Link Bro! I Wont Waste My Time On This. Get Me A Fast Link</b>"
+    NOYES_URL = "<b>This Is Dam Slow Link Bro! I Won't Waste My Time On This. Get Me A Fast Link</b>"
     DOWNLOAD_START = "<b>Downloading Your Files.....📥</b>"
     UPLOAD_START = "<b>Uploading Your Files.....📤</b>"
     RCHD_BOT_API_LIMIT ="<b>Size Greater Than Maximum Allowed Size. Neverthless, Trying To Upload.</b>"
@@ -31,13 +31,13 @@ Expires on: 10/12/2021
 --------"""
     HELP_USER = """<b>There Are Multiple Things I Can Do:</b>\n\n <b>All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html</b>
 
-📌 <b>Upload as file from any HTTP link</b>
+📌 <b>Send Url I can Upload as file from any HTTP link</b>
 
 📌 <b>Convert To Streamable Video, any Telegram media.\nReply /converttovideo to Any Doc File</b>
 
 📌 <b>ReName Telegram files, with custom thumbnail support.\nReply /rename To File</b>
 
-📌 <b>Get High Speed Direct Download Link Of Any Telegram File.\nReply /getlink To File</b>
+📌 <b>Get High Speed Direct Download Link Of Any Telegram File.\nReply /getlink To File Not permanent only 10days</b>
 --------
 
 Send /me To Know Your Current Plan Details"""
@@ -46,7 +46,7 @@ Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_FOR_SCSS = "<b>Reply to a Telegram Media To Get Screenshots.\n@groupdcbots</b>"
     SOURCE = """<b>Hello!,</b>
 
-<b>○ My Name : <i>TeleRoid AnyDLBot</i></b>
+<b>○ My Name : <i>@DcFile2linkbot</i></b>
 <b>○ Creator : <a href='https://telegram.dog/selfiebd'>This Person</a></b>
 <b>○ Credits : Everyone In This Journey</b>
 <b>○ Language : Python 3.9</b>
