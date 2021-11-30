@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. \n\nBot Can Do 👇 \n\n👉 Url Upload Click \n\n👉 Rename a file\video \n\n👉 Get Stream & Download Link (10days) \n\n Click /help button to Know More What Can I Do?"""
+    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. \n\nBot Can Do 👇 \n\n👉 Url Upload Click \n\n👉 Rename a file\video \n\n👉 Get Stream & Download Link (10days) \n\n👉 Generate Screenshot \n\n👉 Media Information \n\n👉 File to video Converter \n\n👉 File\Video to audio Converter \n\nClick /help button to Know More What Can I Do?"""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/groupdc)</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
     UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......</b>"
@@ -39,6 +39,24 @@ Expires on: 10/12/2021
 
 📌 <b>Get High Speed Direct Download Link Of Any Telegram File.\nReply /getlink To File Not permanent only 10days</b>
 --------
+Available Commend 👇💟
+
+👉 /start - alive
+👉 /help - info
+👉 /about - know me
+👉 /upgrade - sub
+👉 /getlink - get stream & download link
+👉 /converttoaudio - convert to audio
+👉 /converttovideo - convert to video
+👉 /generatescss - generate Screenshot
+👉 /rename - rename a file or video
+👉 /trim - trim a video or file
+👉 /downloadmedia - media dow
+👉 /storageinfo - storage info
+👉 /deletethumbnail - delete thumbnail
+👉 /generatecustomthumbnail - Now thumbnail show
+👉 /clearffmpegmedia - Admin
+👉 /ffmpegrobot - 😑
 
 Send /me To Know Your Current Plan Details"""
     REPLY_TO_DOC_GET_LINK = "<b>Reply to a Telegram media to get High Speed Direct Download Link.</b>"
