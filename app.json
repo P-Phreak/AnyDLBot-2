@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/Hx_AnyDLBot",
-  "website": "https://github.com/Kirodewal/AnyDLBot",
-  "repository": "https://github.com/Kirodewal/AnyDLBot",
+  "success_url": "https://telegram.dog/TeleRoid_AnyDLBot",
+  "website": "https://github.com/PredatorHackerzZ/AnyDLBot-2",
+  "repository": "https://github.com/PredatorHackerzZ/AnyDLBot-2",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -36,7 +36,11 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1287407305"
+    },
+    "UPDATES_CHANNEL": {
+      "description": "DON'T FILL ANYTHING HERE if fill change something in forcesub",
+      "value": "TeleRoidGroup"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
