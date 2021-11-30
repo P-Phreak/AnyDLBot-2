@@ -57,11 +57,11 @@ async def start(bot, update):
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.START_TEXT,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🔰 Channel 🔰", url="https://t.me/groupdcbots")], [InlineKeyboardButton(text="🤹 Support 🤹", url="https://t.me/groupdc"),
-                                                    InlineKeyboardButton(text="😎 Developer 😎", url="https://t.me/selfiebd")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🔰 Channel 🔰", url="https://t.me/groupdcbots")], [InlineKeyboardButton(text="🛑 Support 🛑", url="https://t.me/groupdc"),
+                                                    InlineKeyboardButton(text="🤹Developer🤹", url="https://t.me/selfiebd")]]),
     )
 
-@pyrogram.Client.on_message(pyrogram.filters.command(["upgrade"])
+@pyrogram.Client.on_message(pyrogram.filters.command(["upgrade"]))
 async def upgrade(bot, update):
     forcesub = await ForceSub(bot, update)
     if forcesub == 400:
