@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """★彡[ʜᴇʟʟᴏ ʙᴜᴅᴅʏ! 🙋
+    START_TEXT = """ʜᴇʟʟᴏ ʙᴜᴅᴅʏ! 🙋
 
 ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴀʟʟ-ɪɴ-ᴏɴᴇ ʙᴏᴛ. 
 
