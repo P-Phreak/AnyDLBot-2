@@ -1,5 +1,25 @@
 class Translation(object):
-    START_TEXT = """Hello Buddy! 🙋\n\nThis is a simple Telegram All-In-One Bot. \n\nBot Can Do 👇 \n\n👉 Url Upload Click \n\n👉 Rename a file\video \n\n👉 Get Stream & Download Link (10days) \n\n👉 Generate Screenshot \n\n👉 Media Information \n\n👉 File to video Converter \n\n👉 File\Video to audio Converter \n\nClick /help button to Know More What Can I Do?"""
+    START_TEXT = """★彡[ʜᴇʟʟᴏ ʙᴜᴅᴅʏ! 🙋
+
+ᴛʜɪꜱ ɪꜱ ᴀ ꜱɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴀʟʟ-ɪɴ-ᴏɴᴇ ʙᴏᴛ. 
+
+ʙᴏᴛ ᴄᴀɴ ᴅᴏ 👇 
+
+👉 ᴜʀʟ ᴜᴘʟᴏᴀᴅ ᴄʟɪᴄᴋ 
+
+👉 ʀᴇɴᴀᴍᴇ ᴀ ꜰɪʟᴇ ɪᴅᴇᴏ 
+
+👉 ɢᴇᴛ ꜱᴛʀᴇᴀᴍ & ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ (10ᴅᴀʏꜱ) 
+
+👉 ɢᴇɴᴇʀᴀᴛᴇ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ 
+
+👉 ᴍᴇᴅɪᴀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 
+
+👉 ꜰɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ 
+
+👉 ꜰɪʟᴇ\ᴠɪᴅᴇᴏ ᴛᴏ ᴀᴜᴅɪᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ 
+
+ᴄʟɪᴄᴋ /ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴡʜᴀᴛ ᴄᴀɴ ɪ ᴅᴏ?]彡★"""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/groupdc)</b>"
     ABS_TEXT = " <b>Please Don't Be Selfish.</b>"
     UPGRADE_TEXT = "<b>This Bot Is Free To Use If U R My  Friend......</b>"
