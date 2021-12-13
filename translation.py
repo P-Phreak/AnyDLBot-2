@@ -17,7 +17,7 @@ class Translation(object):
 
 👉 ꜰɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ 
 
-👉 ꜰɪʟᴇ\ᴠɪᴅᴇᴏ ᴛᴏ ᴀᴜᴅɪᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ 
+👉 ꜰɪʟᴇ /help ᴛᴏ ᴀᴜᴅɪᴏ ᴄᴏɴᴠᴇʀᴛᴇʀ 
 
 ᴄʟɪᴄᴋ /ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴡʜᴀᴛ ᴄᴀɴ ɪ ᴅᴏ?]彡★"""
     RENAME_403_ERR = "<b>Sorry. You Are Not Permitted To Rename This File.\nAsk In [Support Group](https://t.me/groupdc)</b>"
@@ -49,15 +49,18 @@ Telegram ID: <code>{}</code>
 Plan name: 75GB Per Month
 Expires on: 10/12/2021
 --------"""
-    HELP_USER = """<b>There Are Multiple Things I Can Do:</b>\n\n <b>All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html</b>
+    HELP_USER = """There Are Multiple Things I Can Do:
 
-📌 <b>Send Url I can Upload as file from any HTTP link</b>
+📌 Send Url I can Upload as file from any HTTP link
 
-📌 <b>Convert To Streamable Video, any Telegram media.\nReply /converttovideo to Any Doc File</b>
+📌 Convert To Streamable Video, any Telegram media.
+Reply /converttovideo to Any Doc File
 
-📌 <b>ReName Telegram files, with custom thumbnail support.\nReply /rename To File</b>
+📌 ReName Telegram files, with custom thumbnail support.
+Reply /rename To File
 
-📌 <b>Get High Speed Direct Download Link Of Any Telegram File.\nReply /getlink To File Not permanent only 10days</b>
+📌 Get High Speed Direct Download Link Of Any Telegram File.
+Reply /getlink To File Not permanent only 10days
 --------
 Available Commend 👇💟
 
