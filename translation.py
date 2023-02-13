@@ -67,6 +67,42 @@ Send /me To Know Your Current Plan Details"""
 <em>📡 Server : <a href='https.heroku.com'>Heroku</a></em>
 
 <b>💡 Build Status : Beta v1</b>"""
+
+    START_BUTTONS = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton('⚙Join Updates Channel ⚙ ', url='https://t.me/TeleRoidGroup')
+        ],[
+        InlineKeyboardButton('🆘 Hᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton('👤 Aʙᴏᴜᴛ', callback_data='about')
+        ],[
+        InlineKeyboardButton('🔐 Cʟᴏsᴇ', callback_data='close')
+        ]]
+    )
+    HELP_BUTTONS = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton('🏡 ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('👤 Aʙᴏᴜᴛ', callback_data='about')
+        ],[
+        InlineKeyboardButton('🔐 Cʟᴏsᴇ', callback_data='close')
+        ]]
+    )
+    ABOUT_BUTTONS = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton('🏡 Hᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('🆘 Hᴇʟᴘ', callback_data='help')
+        ],[
+        InlineKeyboardButton('🔐 Cʟᴏsᴇ', callback_data='close')
+        ]]
+    )
+    BUTTONS = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton('🏡 ʜᴏᴍᴇ', callback_data='home'),
+        InlineKeyboardButton('🆘 ʜᴇʟᴘ', callback_data='help')
+        ],[
+        InlineKeyboardButton('🔐 ᴄʟᴏsᴇ', callback_data='close')
+        ]]
+    )
+
     REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Reply to a Telegram Media To /rename With Custom Thumbnail Support.Or Ask In Support Group.</b>"
     AFTER_GET_DL_LINK = "Direct Link <a href='{}'>Generated</a> valid for {} days."
     FF_MPEG_RO_BOT_RE_SURRECT_ED = """Syntax: /trim HH:MM:SS [HH:MM:SS]"""
